@@ -19,6 +19,10 @@ Critical
 Priority:
 High
 
+Additional Information:
+You are able to log out of your account only after, you click on your account in the navbar(https://lzcbvwog.acmebooking.com/Identity/Account/Manage) and log out from the "Manage your account" page.
+
+
 Environment:
 Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
 Operating System: Windows 10, Windows 11
