@@ -1,4 +1,4 @@
-Bug ID:009
+Bug ID:009 
 Title: 9. After making a new reservation on the Reservations tab it does not show the User Data
 Description: When you make a new reservation and go to the already made Reservations, it doesn not show which user made the reservation.
 
