@@ -1,19 +1,19 @@
-Bug ID:002
+Bug ID:003
 Title: 3.Profile phone works with"-","+" and other symbols.
-Description: Adding your phone number works with "-" at the beggining.
+Description: Adding your phone number works with "-" at the beginning.
 
 Steps to Reproduce:
 Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
 Step 2: Log into your account.
 Step 3: Click on Hello,(Username)!
-Step 4 : Add your phone number with "-" at the beggining.
+Step 4 : Add your phone number with "-" at the beginning.
 Step 5 : Click the "Save" button.
 Step 6 : Check the confirmation message.
 
 
 Expected Result:
 After filling the Phone number field with a "-" you should get the "The Phone number field is not a valid phone number." message.
-It should only work with the symbol "+" infront.
+It should only work with the symbol "+" in front.
 
 Actual Result:
 After filling the Phone number field with a "-" you get "Your profile has been updated".
