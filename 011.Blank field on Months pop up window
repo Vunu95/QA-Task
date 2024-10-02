@@ -1,0 +1,32 @@
+Bug ID:011
+Title: 11.Blank field on Months pop up window
+Description: When making a reservation bellow December ther is a blank row.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Locations in the navbar(https://lzcbvwog.acmebooking.com/locations).
+Step 4 : Select a Location.
+Step 5 : Affirm there is a blank row after December on the Months pop up window.
+Step 6 : Click on ot and affirm the current message ("Sorry, there's nothing at this address.")
+
+Expected Result:
+On the Months pop up window December should be the last month that you can choose from.
+
+Actual Result:
+You can choose the blank row to make a reservation and you are redirected to a page with the following message ("Sorry, there's nothing at this address.")
+
+Severity:
+Medium  
+
+Priority:
+Medium
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
