@@ -1,0 +1,36 @@
+Bug ID:009
+Title: 9. After making a new reservation on the Reservations tab it does not show the User Data
+Description: When you make a new reservation and go to the already made Reservations, it doesn not show which user made the reservation.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Locations in the navbar(https://lzcbvwog.acmebooking.com/locations).
+Step 4 : Select the correct pop up windows.
+Step 5 : Make a reservation.
+Step 6 : Click on Reservations in the navbar(https://lzcbvwog.acmebooking.com/reservations).
+Step 7 : Search for the newly added reservation.
+Step 8 : Affirm that the User field for that reservation is blank.
+
+
+
+Expected Result:
+After making a new reservation on the Reservations tab it should show which exact User has made the reservation.
+
+Actual Result:
+ After making a new reservation on the Reservations the User field for that reservation is blank.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+You cannot confirm which user has made the reservaition.And you can also make a reservation without having an account.
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
