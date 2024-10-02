@@ -1,0 +1,37 @@
+Bug ID:012
+Title: 12. Updating the price changes it for past dates too.
+Description: When you update the price of a location it changes it for dates that have already passed.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Update prices in the navbar(https://lzcbvwog.acmebooking.com/prices).
+Step 4 : Fill in the correct data and update the price on the desired location.
+Step 5 : Affirm the following message ("You have successfully updated the prices").
+Step 6 : Click on Locations in the navbar(https://lzcbvwog.acmebooking.com/locations).
+Step 7 : Select your location with the changed price.
+Step 8 : Select a month that has passed already.
+Step 9 : Affirm that the price for the past date has also changed.
+
+
+
+Expected Result:
+When updating the price of a desired location, it should not change the price of the dates and months that have already passed.
+
+Actual Result:
+After updating the price it changes for past months and dates aswell.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+This affects the "Total generated revenue" on the reservation page,if you have booked a location for a past date
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
