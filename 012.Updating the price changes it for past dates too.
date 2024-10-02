@@ -19,7 +19,7 @@ Expected Result:
 When updating the price of a desired location, it should not change the price of the dates and months that have already passed.
 
 Actual Result:
-After updating the price it changes for past months and dates aswell.
+After updating the price it changes for past months and dates as well.
 
 Severity:
 High  
