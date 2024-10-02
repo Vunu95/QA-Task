@@ -1,0 +1,36 @@
+Bug ID:007
+Title: 7.After adding a new location it is not shown on the Home Page
+Description: Adding a new location is not shown on the Home Page but is shown on the Locations,Reservations and Update Price pages.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Add a location in the navbar.
+Step 4 : Fill in the fields with correct data.
+Step 5 : Click the Add location button.
+Step 6 : Affirm the "You have successfully added a location" message.
+Step 7 : Go to the Home Page again (https://lzcbvwog.acmebooking.com/).
+Step 8 : Affirm your new location is not seen with the locations added from the admins.
+
+
+
+Expected Result:
+After adding a new location your new location should be added to the Home Page with the rest.
+
+Actual Result:
+After adding your new location it is not shown on the Home Page but it is shown everywhere else.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+When adding a new location you should have the ability to upload an image like the rest of the locations that are added before.
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
