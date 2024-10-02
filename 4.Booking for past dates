@@ -1,0 +1,33 @@
+Bug ID:004
+Title: 4.Booking for past dates
+Description: You can book for past dates.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Locations in the navbar.
+Step 4 : Select your location.
+Step 5 : Select a month that has passed already.
+Step 6 : Reserve a date in that passed month.
+
+
+Expected Result:
+When selecting a location and a date in the date picker, users should not be able to select dates in the past. The system should either block past dates from being selectable or show a message indicating that the selected date has passed. 
+
+Actual Result:
+When selecting a location and a date, you are able to book for a date and month that have already passed.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
