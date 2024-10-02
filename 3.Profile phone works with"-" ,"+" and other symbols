@@ -1,5 +1,5 @@
 Bug ID:002
-Title: 3.Profile phone works with"-" ,"+" and other symbols.
+Title: 3.Profile phone works with"-","+" and other symbols.
 Description: Adding your phone number works with "-" at the beggining.
 
 Steps to Reproduce:
