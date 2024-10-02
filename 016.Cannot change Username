@@ -1,0 +1,30 @@
+Bug ID:016
+Title: 16.Cannot change Username
+Description: You cannot change your username.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on your account in the navbar.
+Step 4 : Select the row under Profile and try to change your username .
+Step 5 : Affirm you cannot change your username.
+
+Expected Result:
+When you try to change your profile username should be able to change it to your desired one.
+Actual Result:
+When you try to change your profile username you are unable the write in that field.
+
+Severity:
+Medium  
+
+Priority:
+Medium
+
+Additional Information:
+If you change your Phone number after clicking Save you get "Your profile has been updated" which applies that you can also change your username.
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
