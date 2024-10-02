@@ -1,0 +1,27 @@
+Bug ID:001
+Title: Log Out button doesn't work.
+Description: After logging in to your account when pressing the "Log out" button it does not work.
+
+Steps to Reproduce:
+Step 1: Log into your account at (https://lzcbvwog.acmebooking.com/).
+Step 2: Press the "Log out" button.
+Step 3: See the result.
+
+Expected Result:
+After pressing the "Log out" button you should be logged out of your account.
+
+Actual Result:
+After pressing the "Log out" button it redirects you to a blank page and you are still in your account.
+
+Severity:
+Critical
+
+Priority:
+High
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
+
