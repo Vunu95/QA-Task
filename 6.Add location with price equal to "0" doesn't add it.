@@ -1,0 +1,34 @@
+Bug ID:006
+Title: 6.Add location with price equal to "0" doesn't add it.
+Description: Adding a new location with correct name and prices equal to 0 does not add the new location.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Add a location in the navbar.
+Step 4 : Fill the fields with correct name and prices equal to 0.
+Step 5 : Click the Add location button.
+Step 6 : Affirm the "You have successfully added a location" message.
+
+
+
+Expected Result:
+When adding a location with a price equal to 0, technically you should be able to add the location, because the required price must be between 0 and 100.
+
+Actual Result:
+When adding a location with a price equal to 0, you get the "You have successfully added a location" message. But after checking your location is not added to the rest.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+If you add a location with a price above 0, and go to Update Prices in the navbar you can change the price to 0.
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
