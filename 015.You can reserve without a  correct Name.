@@ -1,0 +1,38 @@
+Bug ID:015
+Title: 15.You can reserve without a  correct Name.
+Description: Your Name is required for making a reservation but you can put an invalid Name.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Locations in the navbar.
+Step 4 : Select your location.
+Step 5 : Select a month.
+Step 6 : Reserve a date.
+Step 7 : Enter invalid Name.
+Step 8 : Enter an valid Email.
+Step 9 : Upload a file.
+Step 10 : Press the reserve button.
+Step 11 : Affirm you get the "Your reservation has been made successfully" message.
+
+
+
+Expected Result:
+When making a reservation all data you enter (name,email) should be correct in order to make a reservation.
+Actual Result:
+When you enter an invalid name you are still able to make a reservation.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+Even if Both Name and Email are invalid together , you can still make a reservation
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
