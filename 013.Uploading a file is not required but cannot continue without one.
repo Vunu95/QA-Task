@@ -1,0 +1,33 @@
+Bug ID:013
+Title: 13.Uploading a file is not required but cannot continue without one.
+Description: You cannot make a reservation without uploading a file.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Locations in the navbar.
+Step 4 : Select your location.
+Step 5 : Select a month.
+Step 6 : Reserve a date.
+Step 7 : Click the Reserve button.
+
+
+Expected Result:
+When Reserving a location you are required to fill in Your Name and Email, but you are not required to add a file that describes the purpose of your reservation.
+Actual Result:
+You cannot make a reservation without adding a file that describes the purpose of your reservation.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
