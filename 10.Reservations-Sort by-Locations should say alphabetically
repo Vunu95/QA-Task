@@ -1,0 +1,29 @@
+Bug ID:010
+Title: 10.Reservations-Sort by-Locations should say alphabetically
+Description: When sorting by locations it says ascending and descending when it should say alphabetically.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Reservations in the navbar(https://lzcbvwog.acmebooking.com/reservations).
+Step 4 : Check the Sort by-Location.
+
+Expected Result:
+The correct way should be Sort by-Location-alphabetically with an arrow up or down for ascending and descending.
+Actual Result:
+The current one says Sort by-Location- ascending or descending.
+
+Severity:
+Low  
+
+Priority:
+Low
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
