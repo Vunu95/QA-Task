@@ -5,7 +5,7 @@ Description: You cannot change your username.
 Steps to Reproduce:
 Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
 Step 2: Log into your account.
-Step 3: Click on your account in the navbar.
+Step 3: Click on your account in the navbar(https://lzcbvwog.acmebooking.com/Identity/Account/Manage).
 Step 4 : Select the row under Profile and try to change your username .
 Step 5 : Affirm you cannot change your username.
 
