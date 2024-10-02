@@ -1,0 +1,30 @@
+Bug ID:008 
+Title: 8. After clicking the "Next" or "Prev" buttons they still glow.
+Description: After going to the Reservation page and clicking the "Next" or "Prev" buttons they still glow.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Reservations in the navbar.
+Step 5 : Click the Next or Prev buttons.
+Step 6 : Affirm that they remain glowing after being clicked.
+
+Expected Result:
+After clicking the "Next" or "Prev" buttons they should glow in the moment of clicking but not after that.
+Actual Result:
+After clicking the "Next" or "Prev" buttons they remain glowing.
+
+Severity:
+Low  
+
+Priority:
+Low
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
