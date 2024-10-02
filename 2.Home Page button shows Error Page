@@ -1,0 +1,32 @@
+Bug ID:002
+Title: Home Page button shows "nonexistingpage".
+Description: Clicking the Home Page button ("Booking calendar")redirects you to a non existing page with a message(Sorry, there's nothing at this address.).
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Press the ("Booking calendar") button.
+Step 3: See the result.
+
+Expected Result:
+After pressing the "Booking calendar" button you should be redirected to the home or calendar page.
+
+Actual Result:
+After pressing the "Booking calendar" button it redirects you to a non existing page with a message(Sorry, there's nothing at this address.) and the top windows says "Not found".
+
+Severity:
+Critical
+
+Priority:
+High
+
+Additional Information:
+When you open the Developer Tools-Network before logging in you see that not all status codes are 200.
+If you are logged in there are also 2 Page Errors:
+-Content Security Policy of your site blocks some resources
+-Content Security Policy of your site blocks the use of 'eval' in JavaScript`
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
