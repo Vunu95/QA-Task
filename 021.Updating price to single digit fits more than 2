@@ -1,0 +1,30 @@
+Bug ID:021
+Title: 21.Updating price to single digit fits more than 2.
+Description: When you update the price of 2 or more location to a 1 digit price it fits more than 2 locations on 1 row.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Update price in the navbar(https://lzcbvwog.acmebooking.com/prices).
+Step 4: Change the price on 2 locations to a single digit number.
+Step 5: Affirm that you now have 3 locations on a single row.
+
+Expected Result:
+The system should only list 2 locations on 1 row regardless of how many digits the price has.
+Actual Result:
+You can squeeze 3 locations in 1 row when you change the price to a single digit.
+
+Severity:
+Low  
+
+Priority:
+Low
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
