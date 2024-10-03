@@ -6,11 +6,11 @@ Steps to Reproduce:
 Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
 Step 2: Log into your account.
 Step 3: Click on Add a location in the navbar.
-Step 4 : Fill in the fields with correct data.
-Step 5 : Click the Add location button.
-Step 6 : Affirm the "You have successfully added a location" message.
-Step 7 : Go to the Home Page again (https://lzcbvwog.acmebooking.com/).
-Step 8 : Affirm your new location is not seen with the locations added from the admins.
+Step 4: Fill in the fields with correct data.
+Step 5: Click the Add location button.
+Step 6: Affirm the "You have successfully added a location" message.
+Step 7: Go to the Home Page again (https://lzcbvwog.acmebooking.com/).
+Step 8: Affirm your new location is not seen with the locations added from the admins.
 
 
 
