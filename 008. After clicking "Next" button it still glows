@@ -6,8 +6,8 @@ Steps to Reproduce:
 Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
 Step 2: Log into your account.
 Step 3: Click on Reservations in the navbar.
-Step 5 : Click the Next or Prev buttons.
-Step 6 : Affirm that they remain glowing after being clicked.
+Step 5: Click the Next or Prev buttons.
+Step 6: Affirm that they remain glowing after being clicked.
 
 Expected Result:
 After clicking the "Next" or "Prev" buttons they should glow in the moment of clicking but not after that.
