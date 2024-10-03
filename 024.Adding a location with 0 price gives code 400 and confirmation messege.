@@ -1,0 +1,35 @@
+Bug ID:024
+Title: 24.Adding a location with 0 price gives code 400 and confirmation messege.
+Description: Adding a new location with correct name and prices equal to 0 gives you code 400 on the DevTools but you get a "You have successfully added a location" message.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Add a location in the navbar.
+Step 4: Fill in the fields with correct name and prices equal to 0.
+Step 5: Click the Add location button.
+Step 6: Check the code in the DevTools(F12) in Network.
+Step 6 : Affirm the "You have successfully added a location" message.
+
+
+
+Expected Result:
+When adding a location with a price equal to 0, after getting a code 400 you should get an error message.
+
+Actual Result:
+When adding a location with a price equal to 0, you get the "You have successfully added a location" message. But in the DevTools you get a code 400 and your location is not created.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
