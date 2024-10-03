@@ -9,7 +9,7 @@ Step 3: Click on Add a location in the navbar.
 Step 4: Fill in the fields with correct name and prices equal to 0.
 Step 5: Click the Add location button.
 Step 6: Check the code in the DevTools(F12) in Network.
-Step 6 : Affirm the "You have successfully added a location" message.
+Step 7: Affirm the "You have successfully added a location" message.
 
 
 
