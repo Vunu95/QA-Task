@@ -1,0 +1,28 @@
+Bug ID:025
+Title: 25.Top Home page photos are too streched. 
+Description: The photos of Hotel,Restaurant and Spa center are too streched.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Affirm the Hotel,Restaurant and Spa center are too streched.
+
+Expected Result:
+All photos of locations on the Home page should be the same size.
+
+Actual Result:
+The photos of Hotel,Restaurant and Spa center are too streched.
+
+Severity:
+Low  
+
+Priority:
+Low
+
+Additional Information:
+- 
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
