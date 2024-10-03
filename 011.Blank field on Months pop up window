@@ -6,9 +6,9 @@ Steps to Reproduce:
 Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
 Step 2: Log into your account.
 Step 3: Click on Locations in the navbar(https://lzcbvwog.acmebooking.com/locations).
-Step 4 : Select a Location.
-Step 5 : Affirm there is a blank row after December on the Months pop up window.
-Step 6 : Click on ot and affirm the current message ("Sorry, there's nothing at this address.")
+Step 4: Select a Location.
+Step 5: Affirm there is a blank row after December on the Months pop up window.
+Step 6: Click on ot and affirm the current message ("Sorry, there's nothing at this address.")
 
 Expected Result:
 On the Months pop up window December should be the last month that you can choose from.
