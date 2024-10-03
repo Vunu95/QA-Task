@@ -1,0 +1,30 @@
+Bug ID: 027
+Title: 027.When you select a location it doesn't show the location and isn't centered.
+Description: When you select a location it doesn't fir the location text in its window(in Portrait mode). 
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Go to Locations (https://lzcbvwog.acmebooking.com/location)
+Step 4: Affirm you cannot see the text insite the Select a location pop up window.
+
+
+
+Expected Result:
+When trying to select a location on a mobile device you should be able too see the text in the Select a location pop up window.
+Actual Result:
+When trying to select a location on a mobile device you cannot see the text in the Select a location pop up window and when you switch to Landscape mode you don't see the full text.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+It also works after selecting a location on the Select a month pop up window.
+
+Environment:
+Browser: Safari
+Operating System: iOS 18.0
+Device: Iphone 14 Pro Max
+Network: Wi-fi
