@@ -1,0 +1,33 @@
+Bug ID:019
+Title: 19.Reservations Sort  By doesn't put you on page 1.
+Description: After being on a different page when you click sord by(desired option) the page is not refreshed to Page 1 instead the reservations are sorted and you remain on the same page.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Reservations in the navbar(https://lzcbvwog.acmebooking.com/reservations).
+Step 4: Go to another page except 1.
+Step 5: Press Sort by your desired option.
+Step 6: Affirm the data was sorted but you still remain on the same page.
+
+
+Expected Result:
+When you are on a different page and want to Sort the system should automatically retur you to Page 1 with the sorted data. 
+
+Actual Result:
+After sorting you still remain on the same page and are required to manually go to Page 1.
+
+Severity:
+Medium-High  
+
+Priority:
+Medium-High 
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
