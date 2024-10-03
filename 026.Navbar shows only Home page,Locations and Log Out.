@@ -1,0 +1,28 @@
+Bug ID:026
+Title: 26.Navbar shows only Home page,Locations and Log Out.
+Description: The navbar shows only the Home page link,Locations link and the Log Out link.
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Affirm that only the Home page link,Locations link and the Log Out link are visible.
+
+
+
+Expected Result:
+When you open the website and log into your account you should be able to see all of the navbar items including the(Reservation,Update prices, Add location and profile links).
+Actual Result:
+When you open the website and log into your account only the Home page link,Locations link and the Log Out link are visible.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+-
+Environment:
+Browser: Safari
+Operating System: iOS 18.0
+Device: Iphone 14 Pro Max
+Network: Wi-fi
