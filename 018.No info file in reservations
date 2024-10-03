@@ -13,7 +13,7 @@ Step 6: Fill the "Your name","Your email" and upload the required file.
 Step 7: Click the "Reserve button".
 Step 8: Affirm the "Your reservation has been made successfully" message.
 Step 9: Click on Reservations on the navbar to go to (https://lzcbvwog.acmebooking.com/reservations).
-Step 10: Chech the Info file column that it says "No info file" on all reservations.
+Step 10: Check the Info file column that it says "No info file" on all reservations.
 
 Expected Result:
 When uploading an info file it should be seen on your reservations page.
