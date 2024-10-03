@@ -6,12 +6,12 @@ Steps to Reproduce:
 Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
 Step 2: Log into your account.
 Step 3: Click on Update prices in the navbar(https://lzcbvwog.acmebooking.com/prices).
-Step 4 : Fill in the correct data and update the price on the desired location.
-Step 5 : Affirm the following message ("You have successfully updated the prices").
-Step 6 : Click on Locations in the navbar(https://lzcbvwog.acmebooking.com/locations).
-Step 7 : Select your location with the changed price.
-Step 8 : Select a month that has passed already.
-Step 9 : Affirm that the price for the past date has also changed.
+Step 4: Fill in the correct data and update the price on the desired location.
+Step 5: Affirm the following message ("You have successfully updated the prices").
+Step 6: Click on Locations in the navbar(https://lzcbvwog.acmebooking.com/locations).
+Step 7: Select your location with the changed price.
+Step 8: Select a month that has passed already.
+Step 9: Affirm that the price for the past date has also changed.
 
 
 
