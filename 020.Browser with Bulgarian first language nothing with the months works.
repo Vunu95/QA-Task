@@ -1,0 +1,33 @@
+Bug ID:020
+Title: 20.Browser with Bulgarian first language nothing with the months works.
+Description: If the first language on your browser is Bulgarian all the months are translated and you cannot book or even sort because the system doesn't recognize the data.
+
+Steps to Reproduce:
+Step 1: Open browser and set your preffered language to Bulgarian in browser settings.
+Step 2: Then go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account..
+Step 3: Click Locations and try to make a reservation.
+Step 4: Affirm you get the "An unexpected error has occurred" message.
+Step 5: Go to the Reservations page(https://lzcbvwog.acmebooking.com/reservations)
+Step 6: On Filter by select your desired month.
+Step 7: Affirm nothing has been filtered and it doesn't work.
+
+Expected Result:
+The system should detect both options as correct because some people dont know the English language.
+Actual Result:
+The system doesn't work as intended when your first language is set to Bulgarian. You cannot make and filter because your months are translated and the system sees there are not part of the ASCII table.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
