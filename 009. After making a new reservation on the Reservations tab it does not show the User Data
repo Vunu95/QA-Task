@@ -6,11 +6,11 @@ Steps to Reproduce:
 Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
 Step 2: Log into your account.
 Step 3: Click on Locations in the navbar(https://lzcbvwog.acmebooking.com/locations).
-Step 4 : Select the correct pop up windows.
-Step 5 : Make a reservation.
-Step 6 : Click on Reservations in the navbar(https://lzcbvwog.acmebooking.com/reservations).
-Step 7 : Search for the newly added reservation.
-Step 8 : Affirm that the User field for that reservation is blank.
+Step 4: Select the correct pop up windows.
+Step 5: Make a reservation.
+Step 6: Click on Reservations in the navbar(https://lzcbvwog.acmebooking.com/reservations).
+Step 7: Search for the newly added reservation.
+Step 8: Affirm that the User field for that reservation is blank.
 
 
 
