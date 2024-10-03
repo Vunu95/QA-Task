@@ -6,7 +6,7 @@ Steps to Reproduce:
 Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
 Step 2: Log into your account.
 Step 3: Click on Reservations in the navbar(https://lzcbvwog.acmebooking.com/reservations).
-Step 4 : Check the Sort by-Location.
+Step 4: Check the Sort by-Location.
 
 Expected Result:
 The correct way should be Sort by-Location-alphabetically with an arrow up or down for ascending and descending.
