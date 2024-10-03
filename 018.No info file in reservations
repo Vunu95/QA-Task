@@ -1,0 +1,36 @@
+Bug ID:018
+Title: 018.No info file in reservations
+Description: Info file is not shown on your Reservations page.
+
+Steps to Reproduce:
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Locations in the navbar.
+Step 4: Select your location.
+Step 5: Select a month.
+Step 6: Fill the "Your name","Your email" and upload the required file.
+Step 7: Click the "Reserve button".
+Step 8: Affirm the "Your reservation has been made successfully" message.
+Step 9: Click on Reservations on the navbar to go to (https://lzcbvwog.acmebooking.com/reservations).
+Step 10: Chech the Info file column that it says "No info file" on all reservations.
+
+Expected Result:
+When uploading an info file it should be seen on your reservations page.
+Actual Result:
+After making a reservation with the correct data and file on the Reservations page there is no info file shown.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
