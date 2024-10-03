@@ -1,0 +1,31 @@
+Bug ID:022
+Title: 22.Deleting a single reservation on a page returns No reservations.
+Description: When you have only 1 reservation on a page and you delete it a message that shows "There are no reservations that match the given criteria" and the Next and Prev buttons disappear.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Reservations in the navbar(https://lzcbvwog.acmebooking.com/reservations).
+Step 4: Go to a page with a single reservation.
+Step 5: Delete the reservation.
+Step 6: Affirm you get the "There are no reservations that match the given criteria" message and that the Next and Prev buttons are gone.
+
+Expected Result:
+When you delete a reservation that is the single one on a page you should be redirected to the previous page and the buttons should remain.
+Actual Result:
+When deleting a reservation that is the single one on that page you get "There are no reservations that match the given criteria""and the Next and Prev buttons are gone.
+
+Severity:
+Medium-High  
+
+Priority:
+Medium-High
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
