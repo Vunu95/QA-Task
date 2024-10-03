@@ -6,14 +6,14 @@ Steps to Reproduce:
 Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
 Step 2: Log into your account.
 Step 3: Click on Locations in the navbar.
-Step 4 : Select your location.
-Step 5 : Select a month.
-Step 6 : Reserve a date.
-Step 7 : Enter valid Name.
-Step 8 : Enter an invalid Email.
-Step 9 : Upload a file.
-Step 10 : Press the reserve button.
-Step 11 : Affirm you get the "Your reservation has been made successfully" message.
+Step 4: Select your location.
+Step 5: Select a month.
+Step 6: Reserve a date.
+Step 7: Enter valid Name.
+Step 8: Enter an invalid Email.
+Step 9: Upload a file.
+Step 10: Press the reserve button.
+Step 11: Affirm you get the "Your reservation has been made successfully" message.
 
 
 
