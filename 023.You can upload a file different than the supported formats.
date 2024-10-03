@@ -1,0 +1,36 @@
+Bug ID:023
+Title: 23.You can upload a file different than the supported formats.
+Description: You can for example upload a .jpeg or a .png file and still make a reservation.
+
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Click on Locations in the navbar.
+Step 4: Select your location.
+Step 5: Select a month.
+Step 6: Reserve a date.
+Step 7: Fill your name and email.
+Step 8: Upload a different than supported formats (size limit is 1 MB, allowed formats are .doc, .txt and .pdf) item.
+Step 9: Affirm your reservation has been made successfully"Your reservation has been made successfully".
+
+
+
+Expected Result:
+When trying to upload a file format that is not supported by the syste you should not be able to continue to make your reservation.
+Actual Result:
+It doesn't matter what type of file you are uploadig it accepts almost every format and continues to make your reservation successfully.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
