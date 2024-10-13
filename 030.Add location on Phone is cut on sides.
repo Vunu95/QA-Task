@@ -1,0 +1,28 @@
+Bug ID:030
+Title: 030.Add location on Phone is cut on sides.
+Description: When you go to Add location on your phone the whole page is cut and doesn't funcion properly.
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Go to Add location (https://lzcbvwog.acmebooking.com/addLocation).
+
+
+
+Expected Result:
+The website should be compatible with my phone aswell as my PC and i should see everything in Add Location aswell.
+Actual Result:
+The page is cut on the sides and one/fourth of it is missing, because of the size difference in the display.
+
+Severity:
+High  
+
+Priority:
+High
+
+Additional Information:
+-
+Environment:
+Browser: Safari
+Operating System: iOS 18.0
+Device: Iphone 14 Pro Max
+Network: Wi-fi
