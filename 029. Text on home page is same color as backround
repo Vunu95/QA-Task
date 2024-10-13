@@ -1,0 +1,30 @@
+Bug ID:029
+Title: 29.Text on home page is same color as backround
+Description: Some words in the  text "The guide for all your reservations..." are hardly visible.
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Go to Home Page.
+Step 4: See text.
+
+
+Expected Result:
+The text should be clearly visible and easy to read.
+
+Actual Result:
+Some words are the same color as the backround palms.
+
+Severity:
+Low  
+
+Priority:
+Low
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
