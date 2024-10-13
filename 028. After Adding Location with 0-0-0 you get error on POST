@@ -1,0 +1,31 @@
+Bug ID:028
+Title: 28. After Adding Location with 0-0-0 you get error on POST.
+Description: When you decide to create a location with all 0's you get error on POST
+Steps to Reproduce:
+Step 1: Open browser and go to (https://lzcbvwog.acmebooking.com/).
+Step 2: Log into your account.
+Step 3: Go to https://lzcbvwog.acmebooking.com/addLocation
+Step 4: Fill with all zeros.
+Step 5: Press F12 and go to Console.
+
+
+
+Expected Result:
+If the website is running properly it should not let you create a location with three zeros for name and prices.
+Actual Result:
+You get succesfull confirmation message, but you get code 400 and your location is not found on Update Prices.
+
+Severity:
+Medium-High  
+
+Priority:
+Medium-High 
+
+Additional Information:
+-
+
+Environment:
+Browser: Brave 1.70.119, Mozilla Firefox 130.0.1 (64-bit)
+Operating System: Windows 10, Windows 11
+Device: Desktop PC
+Network:Ethernet
